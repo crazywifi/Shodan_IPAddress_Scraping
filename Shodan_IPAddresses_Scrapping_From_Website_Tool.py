@@ -36,9 +36,9 @@ service = "rtsp"
 Cookie1 = 'polito="your cookie values"'
 
 #change x value, so that request send that many times
-x = 30
+x = 20
 
-i = 10
+i = 1
 while (i < x):
         
         f = open("IPaddresses.txt","a")
