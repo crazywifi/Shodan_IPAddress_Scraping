@@ -50,7 +50,7 @@ while (i < x):
                 "Accept-Language": "en-US,en;q=0.5",
                 "Accept-Encoding": "gzip, deflate",
                 "origin": "https://www.okcupid.com",
-                "Referer": "https://www.shodan.io/search?query=rtsp",
+                "Referer": "https://www.shodan.io/search?query="+service,
                 "Sec-Fetch-Dest": "document",
                 "Sec-Fetch-Mode": "navigate",
                 "Sec-Fetch-Site": "same-origin",
