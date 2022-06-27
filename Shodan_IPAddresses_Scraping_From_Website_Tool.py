@@ -23,7 +23,7 @@ Y = '\033[93m'
 BOLD = '\033[1m'
 END = '\033[0m'
 
-print (colored(pyfiglet.figlet_format("Shodan IP Addresses Scrapping Tool", font="standard"), "red"))
+print (colored(pyfiglet.figlet_format("Shodan IP Addresses Scraping Tool", font="standard"), "red"))
 print (G+BOLD+"By Rishabh Sharma [Follow: https://lazyhacker22.blogspot.com/]\n"+END)
 
 regex = r"\b\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\b"
