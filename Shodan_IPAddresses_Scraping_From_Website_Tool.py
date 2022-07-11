@@ -49,7 +49,7 @@ while (i < x):
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
                 "Accept-Language": "en-US,en;q=0.5",
                 "Accept-Encoding": "gzip, deflate",
-                "origin": "https://www.okcupid.com",
+                "origin": "https://www.shodan.io",
                 "Referer": "https://www.shodan.io/search?query="+service,
                 "Sec-Fetch-Dest": "document",
                 "Sec-Fetch-Mode": "navigate",
